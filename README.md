@@ -1,4 +1,6 @@
 # hello-world
 uh…
 I've nothing to say…
-How the fuck does it work?
+OK, it seems to work.
+BÉPO is the good.
+Megaminxing too.
