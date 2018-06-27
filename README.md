@@ -1,6 +1,2 @@
 # hello-world
-uh…
-I've nothing to say…
-OK, it seems to work.
-BÉPO is the good.
-Megaminxing too.
+Test: success
